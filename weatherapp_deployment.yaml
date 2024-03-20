@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: weather-app
-        image: yarinch/weather:3
+        image: yarinch/weather:4
         ports:
         - containerPort: 5000
 
